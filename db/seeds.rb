@@ -15,3 +15,13 @@ Site.create(name: "Richard Bong State Recreation Area", state: "Wisconsin", coun
 Site.create(name: "Fetterman Monument", state: "Wyoming", country: "United States", continent: "North America", color_zone: "light blue")
 Site.create(name: "Outlaw Cave Campground", state: "Wyoming", country: "United States", continent:"North America", color_zone: "black")
 Site.create(name: "Yellowstone National Park", state: "Wyoming", country: "United States", continent: "North America", color_zone: "black")
+
+
+User.create(name: "Alice")
+
+
+Post.create(image: "image here", equipment: "telescope, camera", title: "Some planet", user_id: 1, content: "LSJuasgiugfe iUEGF eufgUGFU Gi iaurg iurg oiawgfagf rwiuagf airwugf awigf iwau iawgpw8a gfiuasg fis isulg loehawf8r47 yiurg 987 iu rgriug iaehgaiughi auerghaorhfaoe;PWFJENV B   GHRIUGHIRU.")
+
+
+
+
